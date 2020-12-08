@@ -8,6 +8,7 @@
   - 조금 난해한 JS 언어 공부와 응용
   
 - 앞으로 하고싶은 것 ( 알아가고 싶은 것 )
+  - 타입스크립트와 함수형 프로그래밍에 대한 지식 
   - Next.js 를 비롯한 프런트 영역에서의 SSR 구현
   - Java & Spring 터득하기 & 객체지향
   - Docker / AWS Route 53 / Lambda / Kubernetes 같은 DevOps 영역 알아가기
