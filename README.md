@@ -1,24 +1,13 @@
 # Introduce
 
 ##### 저는 서비스 개발을 중심으로 코딩과 프로그래밍을 하는 학부생입니다.
+##### 2021 상반기 러닝 로드맵 https://www.notion.so/ce38aec02b9747f48607443446568f8e?v=819b20b0d1974d48895de92fa11c85c3
 
-- 주로 하는 것
-  - Node.js 환경 기반의 SSR 서비스 & RESTful API 개발
-  - React 프레임워크 기반 프런트엔드 영역 개발
-  - 조금 난해한 JS 언어 공부와 응용
-  
-- 앞으로 하고싶은 것 ( 알아가고 싶은 것 )
-  - 타입스크립트와 함수형 프로그래밍에 대한 지식 
-  - Next.js 를 비롯한 프런트 영역에서의 SSR 구현
-  - Java & Spring 터득하기 & 객체지향
-  - Docker / AWS Route 53 / Lambda / Kubernetes 같은 DevOps 영역 알아가기
-  - 데이터베이스 성능 향상을 위한 튜닝
-  - 자료구조 / 알고리즘 등 CS 지식
-  - CSS Styling, CSS Layout 마법처럼 사용하기
-  - Functinoal Programming 기반 Design Pattern
-  - TDD 지향적인 개발습관 ( Jest & Mocha )
-
-##### 경험
+### 경험
+##### 현업 프레임워크를 이용한 SNS 서비스: https://github.com/galaxy4276/React_NodeBird
+##### 3인 협업 서버사이드 웹 서비스 프로젝트: https://github.com/galaxy4276/Node.JS_FakeDevelopers
+##### 2인 협업 React Native 영화 리뷰 안드로이드 어플: https://github.com/galaxy4276/RottenPotatoes
+##### MongoDB, Node.js 를 이용한 SSR 비디오 제공 서비스: https://github.com/galaxy4276/ddctube
 
 #### My Stacks
 ##### Languages:  &nbsp; ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js) ![JS](https://img.shields.io/badge/-ECMAScript-ffba08?style=flat-square&logo=JavaScript) ![C](https://img.shields.io/badge/-%20C%20Language%20-bde0fe?style=flat-square&logo=C) ![Python](https://img.shields.io/badge/-Python-48bfe3?style=flat-square&logo=python)  ![JAVA](https://img.shields.io/badge/-Java-c38e70?style=flat-square&logo=Java)
