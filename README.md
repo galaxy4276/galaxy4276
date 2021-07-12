@@ -1,8 +1,6 @@
 # Introduce
 
 ##### 저는 서비스 개발을 중심으로 코딩과 프로그래밍을 하는 학부생입니다.
-##### 2021 상반기 러닝 로드맵 https://www.notion.so/ce38aec02b9747f48607443446568f8e?v=819b20b0d1974d48895de92fa11c85c3
-
 ### Exprerience
 ##### 현업 프레임워크를 이용한 SNS 서비스: https://github.com/galaxy4276/React_NodeBird
 ##### 3인 협업 서버사이드 웹 서비스 프로젝트: https://github.com/galaxy4276/Node.JS_FakeDevelopers
