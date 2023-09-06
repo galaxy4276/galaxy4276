@@ -14,3 +14,4 @@ Node.js 를 어떻게 하면 최대한 잘 활용할 수 있는 지, Java/Kotlin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxy4276&layout=compact&theme=tokyonight)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/galaxyhi4276?theme=nord&font=Noto%20Sans%20Georgian&height=165)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=galaxy4276)](https://solved.ac/galaxy4276/)
