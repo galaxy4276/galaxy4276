@@ -15,7 +15,7 @@ I'm on my way to becoming a backend developer who can handle a lot of communicat
 
 **Lang**
 
-<p float="left">
+<p float="left" style="background:white">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width=50 />
