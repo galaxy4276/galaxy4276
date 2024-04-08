@@ -1,15 +1,12 @@
-# Introduce
+![image](https://github.com/galaxy4276/galaxy4276/assets/50310464/fbdc943a-8a4c-4920-8867-c918ff65ce5c)# Introduce
 
-웹 분야에서 다양한 기술을 폭넓게 배우는 것을 즐깁니다.
-
-Node.js 를 어떻게 하면 최대한 잘 활용할 수 있는 지, Java/Kotlin Spring 백엔드 기술과 테스트, React.js/Next.js 에 관심이 많습니다.
-
-전반적인 지식을 바탕으로 두되, 특정 분야에서 전문성 높은 역량을 일컫는 T자형 인재가 되어가고자 노력하고 있습니다.
-
-최대한 적은 리소스로 많은 통신량을 처리해내는 백엔드 개발자를 목표로 나아가는 중입니다.
+I enjoy learning a wide range of technologies in the web space.
+I'm interested in how to best utilize Node.js, Java/Kotlin Spring backend technologies and testing, and React.js/Next.js.
+I strive to be a T-shaped person, which refers to having a general knowledge base but being highly specialized in specific areas.
+I'm on my way to becoming a backend developer who can handle a lot of communication with as few resources as possible.
 
 **[개인 블로그](https://galaxylog.vercel.app/)** 
-
+**[직무 경력서](https://pine-epoxy-5c9.notion.site/fbfeafcd12c4426085e41b13f5cad08c?pvs=4)**
 * * *
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxy4276&layout=compact&theme=tokyonight)
