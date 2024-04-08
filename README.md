@@ -7,11 +7,16 @@ I'm interested in how to best utilize Node.js, Java/Kotlin Spring backend techno
 I strive to be a T-shaped person, which refers to having a general knowledge base but being highly specialized in specific areas.
 I'm on my way to becoming a backend developer who can handle a lot of communication with as few resources as possible.
 
+I am interested in the overall technology of building orchestration based on container technology and ensuring that the appropriate monitoring solutions are in place to ensure that the product is up and running reliably.
+I'm also interested in the appropriate technical solutions for selecting and designing the right database for the situation.
+
+
 
 **[개인 블로그](https://galaxylog.vercel.app/)** |
 **[직무 경력서](https://pine-epoxy-5c9.notion.site/fbfeafcd12c4426085e41b13f5cad08c?pvs=4)**
 
 ---
+# Tech Preferences
 
 **Lang**
 
@@ -23,7 +28,6 @@ I'm on my way to becoming a backend developer who can handle a lot of communicat
   width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=50 />
 </p>
-
 
 
 **Tech**
