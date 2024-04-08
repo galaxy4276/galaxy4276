@@ -10,6 +10,8 @@ I'm on my way to becoming a backend developer who can handle a lot of communicat
 
 
 
+
+
 **[개인 블로그](https://galaxylog.vercel.app/)** |
 **[직무 경력서](https://pine-epoxy-5c9.notion.site/fbfeafcd12c4426085e41b13f5cad08c?pvs=4)** |
 **[사자처럼 자기소개 링크(대학동아리)](https://deveungi-self-intro.netlify.app/)**
@@ -25,7 +27,6 @@ I'm on my way to becoming a backend developer who can handle a lot of communicat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width=50 />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
   width=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=50 />
 </p>
 
 
@@ -52,6 +53,10 @@ I'm on my way to becoming a backend developer who can handle a lot of communicat
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-plain.svg" width=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" width=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" width=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg"  width=50 />
+
+
 </p>
 
 
@@ -62,6 +67,7 @@ I'm on my way to becoming a backend developer who can handle a lot of communicat
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg"  width=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" width=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width=50 />
@@ -74,7 +80,14 @@ I'm on my way to becoming a backend developer who can handle a lot of communicat
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" width=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" width=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg"  width=50/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg"  width=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"  width=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" width=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width=50 />
+
+
 </p>
 
 
