@@ -2,13 +2,11 @@
 
 I enjoy learning a wide range of technologies in the web space.
 
-I'm interested in how to best utilize Node.js, Java/Kotlin Spring backend technologies and testing, and React.js/Next.js.
+I'm interested in how to best utilize Node.js, Java/Kotlin Spring backend technologies and testing, and React.js/Next.js and overall technology of building orchestration based on container technology and ensuring that the appropriate monitoring solutions are in place to ensure that the product is up and running reliably.
+and I also interested in the appropriate technical solutions for selecting and designing the right database for the situation.
 
 I strive to be a T-shaped person, which refers to having a general knowledge base but being highly specialized in specific areas.
 I'm on my way to becoming a backend developer who can handle a lot of communication with as few resources as possible.
-
-I am interested in the overall technology of building orchestration based on container technology and ensuring that the appropriate monitoring solutions are in place to ensure that the product is up and running reliably.
-I'm also interested in the appropriate technical solutions for selecting and designing the right database for the situation.
 
 
 
