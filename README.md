@@ -102,7 +102,7 @@ I'm on my way to becoming a backend developer who can handle a lot of communicat
 ---
 
 ### Side Job & Project
-
+If you want job history look out **[here](https://pine-epoxy-5c9.notion.site/fbfeafcd12c4426085e41b13f5cad08c?pvs=4)**!
 |name|desc|date|link
 |---|---|---|---
 |Korean IT school mentoring|Provide technical mentorship to students studying development on hackathon projects|2023. 10. ~ 2023. 12.
