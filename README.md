@@ -106,6 +106,7 @@ If you want job history look out **[here](https://pine-epoxy-5c9.notion.site/fbf
 |name|desc|date|link
 |---|---|---|---
 |Korean IT school mentoring|Provide technical mentorship to students studying development on hackathon projects|2023. 10. ~ 2023. 12.
+|K-digital Hackerton 2023|We were selected as a qualifier and went through the full application development process.|2023. 10.|[2023 K Digital Training Hackerton](http://k-digitalhackathon.kr/sub/event/sub05.asp)
 |Automate Zoom lessons from the student perspective|Automation for classes I can't be bothered to take|2023. 11.|[Zoom Auto Helper](https://github.com/galaxy4276/zoom_auto_helper)
 |Web Server Designed with Foundation Modules|A web application that utilizes the Java API, the net module of Node.js, to directly process HTTP packets and perform responses. This was done to better understand how a web server works|2023. 09.|[GalaxyBasicWebServer](https://github.com/galaxy4276/galaxy-basic-web-server), [EunCat](https://github.com/galaxy4276/EunCat)
 |Multicord|A chat application made really simple|2023. 09.|[Multicord](https://github.com/galaxy4276/multicord)
@@ -116,6 +117,7 @@ If you want job history look out **[here](https://pine-epoxy-5c9.notion.site/fbf
 |Create a university website|Department site renewal project, with planning and back-end development responsibilities.|2021. 06 ~ 2021. 12.|[Team Fake Developer](https://github.com/galaxy4276/Node.JS_FakeDevelopers)
 |Nodebird|SNS application created after watching Zerocho developer's lecture|2020.|[NodeBird SNS](https://github.com/galaxy4276/React_NodeBird)
 |Simple Movie Android App|A Simple Movie Listing App with React Native|2020.|[RottenPotatoes](https://github.com/galaxy4276/RottenPotatoes)
+|2019 College Excellence Award at the 7th Creative Convergence Conference (7th)|Awarded for developing an on-campus academic review web service utilizing Python Django.|2019.|None
 * * *
 
 ## History of Problem Solve
