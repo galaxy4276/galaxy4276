@@ -12,9 +12,18 @@ I'm on my way to becoming a backend developer who can handle a lot of communicat
 
 
 
-**[개인 블로그](https://galaxylog.vercel.app/)** |
-**[직무 경력서](https://pine-epoxy-5c9.notion.site/fbfeafcd12c4426085e41b13f5cad08c?pvs=4)** |
+**[개인 블로그(Blog)](https://galaxylog.vercel.app/)** |
+**[직무 경력서(Work History)](https://pine-epoxy-5c9.notion.site/fbfeafcd12c4426085e41b13f5cad08c?pvs=4)** |
 **[사자처럼 자기소개 링크(대학동아리)](https://deveungi-self-intro.netlify.app/)**
+
+---
+# Certifications
+
+* [Linux Master 1st Grade(nationally certified)](https://www.ihd.or.kr/introducesubject1.do)
+* [Network Management 2st Grade(nationally certified)](https://www.icqa.or.kr/cn/page/network)
+* [Engineer Information Processing(national qualification)](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=2290)
+#### Work In Progress
+* [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/)
 
 ---
 # Tech Preferences
