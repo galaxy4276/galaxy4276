@@ -106,11 +106,15 @@ If you want job history look out **[here](https://pine-epoxy-5c9.notion.site/fbf
 |name|desc|date|link
 |---|---|---|---
 |Korean IT school mentoring|Provide technical mentorship to students studying development on hackathon projects|2023. 10. ~ 2023. 12.
+|Automate Zoom lessons from the student perspective|Automation for classes I can't be bothered to take|2023. 11.|[Zoom Auto Helper](https://github.com/galaxy4276/zoom_auto_helper)
 |Web Server Designed with Foundation Modules|A web application that utilizes the Java API, the net module of Node.js, to directly process HTTP packets and perform responses. This was done to better understand how a web server works|2023. 09.|[GalaxyBasicWebServer](https://github.com/galaxy4276/galaxy-basic-web-server), [EunCat](https://github.com/galaxy4276/EunCat)
+|Multicord|A chat application made really simple|2023. 09.|[Multicord](https://github.com/galaxy4276/multicord)
 |Stock2U|An application that intuitively communicates remaining inventory in a region to users|2023. 10 ~ 2023. 12|[Stock2U API Server](https://github.com/geezers-io/Stock2U-api), [Stock2U App](https://github.com/geezers-io/Stock2U-front)|
 |Frolic SNS|Twitter and similar social media applications|2023. 04.|[Frolic API Server](https://github.com/galaxy4276/frolic-backend)
-|Problem Solve StudyBoard|A dashboard-style application that allows members to check in and view the status of your algorithmic problem solving on a weekly basis.|2022. 01.|[alg-study-helper](https://github.com/galaxy4276/alg-study-helper)
+|Problem Solve StudyBoard|A dashboard-style application that allows members to check in and view the status of your algorithmic problem solving on a weekly basis.|2022. 01.|[alg-study-helper](https://github.com/galaxy4276/alg-study-helper)|
+|Mogakco|A live chat application coded by a group of people|2021. 09.|[Mogakco](https://github.com/bear-bear-bear/mogakco)
 |Create a university website|Department site renewal project, with planning and back-end development responsibilities.|2021. 06 ~ 2021. 12.|[Team Fake Developer](https://github.com/galaxy4276/Node.JS_FakeDevelopers)
+|Nodebird|SNS application created after watching Zerocho developer's lecture|2020.|[NodeBird SNS](https://github.com/galaxy4276/React_NodeBird)
 |Simple Movie Android App|A Simple Movie Listing App with React Native|2020.|[RottenPotatoes](https://github.com/galaxy4276/RottenPotatoes)
 * * *
 
