@@ -1,4 +1,6 @@
-# Introduce
+## Introduce
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxy4276&layout=compact&theme=tokyonight)
+
 
 I enjoy learning a wide range of technologies in the web space.
 
@@ -10,14 +12,12 @@ I'm on my way to becoming a backend developer who can handle a lot of communicat
 
 
 
-
-
 **[개인 블로그(Blog)](https://galaxylog.vercel.app/)** |
 **[직무 경력서(Work History)](https://pine-epoxy-5c9.notion.site/fbfeafcd12c4426085e41b13f5cad08c?pvs=4)** |
 **[사자처럼 자기소개 링크(대학동아리)](https://deveungi-self-intro.netlify.app/)**
 
 ---
-# Certifications
+## Certifications
 
 * [Linux Master 1st Grade(nationally certified)](https://www.ihd.or.kr/introducesubject1.do)
 * [Network Management 2st Grade(nationally certified)](https://www.icqa.or.kr/cn/page/network)
@@ -26,7 +26,7 @@ I'm on my way to becoming a backend developer who can handle a lot of communicat
 * [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/ko/certification/certified-solutions-architect-associate/)
 
 ---
-# Tech Preferences
+## Tech Preferences
 
 **Lang**
 
@@ -99,12 +99,23 @@ I'm on my way to becoming a backend developer who can handle a lot of communicat
 
 </p>
 
+---
 
+### Side Job & Project
 
-
+|name|desc|date|link|other|
+|---|---|---|---|---|
+|Korean IT school mentoring|Provide technical mentorship to students studying development on hackathon projects|2023. 10. ~ 2023. 12.|None|React, Spring Basic Tutors|
+|Web Server Designed with Foundation Modules|A web application that utilizes the Java API, the net module of Node.js, to directly process HTTP packets and perform responses. This was done to better understand how a web server works|2023. 09.|[GalaxyBasicWebServer](https://github.com/galaxy4276/galaxy-basic-web-server), [EunCat](https://github.com/galaxy4276/EunCat)|Node.js Net Module, Java API|
+|Stock2U|An application that intuitively communicates remaining inventory in a region to users|2023. 10 ~ 2023. 12|[Stock2U API Server](https://github.com/geezers-io/Stock2U-api), [Stock2U App](https://github.com/geezers-io/Stock2U-front)|Backend PM, API to provide latitude and longitude-based inventory listings, Chat API and screen design, App Planning
+|Frolic SNS|Twitter and similar social media applications|2023. 04.|[Frolic API Server](https://github.com/galaxy4276/frolic-backend)|Backend PM, Full API design and development, Configure infrastructure and manage CI/CD
+|Problem Solve StudyBoard|A dashboard-style application that allows members to check in and view the status of your algorithmic problem solving on a weekly basis.|2022. 01.|[alg-study-helper](https://github.com/galaxy4276/alg-study-helper)|PM, React, Github API|
+|Create a university website|Department site renewal project, with planning and back-end development responsibilities.|2021. 06 ~ 2021. 12.|[Team Fake Developer](https://github.com/galaxy4276/Node.JS_FakeDevelopers)|Express.js(Node.js)
+|Simple Movie Android App|A Simple Movie Listing App with React Native|2020.|[RottenPotatoes](https://github.com/galaxy4276/RottenPotatoes)|React Native, Express.js(Node.js)|
 
 * * *
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxy4276&layout=compact&theme=tokyonight)
+## History of Problem Solve
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/galaxyhi4276?theme=nord&font=Noto%20Sans%20Georgian&height=200)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=galaxy4276)](https://solved.ac/galaxy4276/)
