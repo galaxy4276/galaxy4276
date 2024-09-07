@@ -12,7 +12,7 @@ I'm on my way to becoming a backend developer who can handle a lot of communicat
 
 
 
-**[개인 블로그(Blog)]([https://galaxylog.vercel.app/](https://publish.obsidian.md/deveungi)** |
+**[개인 블로그(Blog)](https://publish.obsidian.md/deveungi/publish/introduce)** |
 **[직무 경력서(Work History)](https://pine-epoxy-5c9.notion.site/fbfeafcd12c4426085e41b13f5cad08c?pvs=4)** |
 **[사자처럼 자기소개 링크(대학동아리)](https://deveungi-self-intro.netlify.app/)**
 
