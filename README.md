@@ -14,7 +14,6 @@ I'm on my way to becoming a backend developer who can handle a lot of communicat
 
 **[개인 블로그(Blog)](https://publish.obsidian.md/deveungi/publish/%EA%B0%99%EC%9D%B4+%EC%9D%BC%ED%95%98%EA%B8%B0+%EC%A2%8B%EC%9D%80+%EC%82%AC%EB%9E%8C%EC%9D%B4+%EB%90%98%EA%B8%B0+%EC%9C%84%ED%95%9C+%EA%B3%B5%EA%B0%84)** |
 **[직무 경력서(Work History)](https://pine-epoxy-5c9.notion.site/fbfeafcd12c4426085e41b13f5cad08c?pvs=4)** |
-**[사자처럼 자기소개 링크(대학동아리)](https://deveungi-self-intro.netlify.app/)**
 
 ---
 ## Certifications
